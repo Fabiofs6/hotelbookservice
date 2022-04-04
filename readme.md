@@ -1,4 +1,4 @@
-**Hotel Booking Information**
+**Hotel Booking Service**
 - 
 - Search booking information by city
   -
